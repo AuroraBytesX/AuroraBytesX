@@ -8,8 +8,8 @@
 ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swornodas&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swornodas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AuroraBytesX&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AuroraBytesX&theme=radical&hide_border=false&layout=compact" width="43%" />
 </p>
 
 ---
