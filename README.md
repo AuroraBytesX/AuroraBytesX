@@ -2,7 +2,12 @@
 
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Tapashi Dhar</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Tapashi%20Dhar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&&descAlignY=55&descSize=18" width="100%" />
+
+
+
+
+<h1 align="center">Hello👋, it's me</h1>
 <h3 align="center">Beginner Developer | CSE (Data Science) Student @ BWU'27 | Exploring AI & Technology 🚀</h3>
 
 <p align="center">
@@ -14,6 +19,10 @@
 ### 🤝 Connect With Me
 
 <p align="center">
+
+  <a href="mailto:tapashidhar2004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://x.com/BlankChxque" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
@@ -41,7 +50,7 @@
 
 <td width="70%">
 
-### 🧠 About Me
+### 🧑‍🚀 About Me
 
 I'm a **B.Tech CSE (Data Science) student at Brainware University**, currently exploring the world of software development, AI, and data science. I'm focused on learning by building projects, contributing to open source, and continuously improving my technical skills.
 
