@@ -103,10 +103,10 @@ I'm a **B.Tech CSE (Data Science) student at Brainware University**, currently e
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
+<!-- Ending -->
+<img src="./pixel-art-train.gif" alt="Pixel Art Train" width="400">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
 
 
 <picture>
@@ -115,5 +115,7 @@ I'm a **B.Tech CSE (Data Science) student at Brainware University**, currently e
   <img alt="github-snake" src="https://github.com/AuroraBytesX/AuroraBytesX/blob/output/github-snake.svg" />
 </picture>
 
+
+# Thanks for visiting,Amigo!
 ---
 </div>
