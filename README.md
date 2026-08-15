@@ -5,8 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Tapashi%20Dhar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&&descAlignY=55&descSize=18" width="100%" />
 
 
-
-
+---
 <h1 align="center">Hello👋, it's me</h1>
 <h3 align="center">Beginner Developer | CSE (Data Science) Student @ BWU'27 | Exploring AI & Technology 🚀</h3>
 
@@ -129,6 +128,16 @@ I'm a **B.Tech CSE (Data Science) student at Brainware University**, currently e
 </picture>
 
 
-# Thanks for visiting,Amigo!
+
+<div align="auto">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=00FF88&background=0D111700&center=true&width=500&lines=%3C+currently+building.....+%2F%3E;BY+TAPASHI+DHAR" 
+    alt="TAPASHI DHAR"
+  />
+</div>
+
 ---
+
+
+# Thanks for visiting,Amigo!
 </div>
